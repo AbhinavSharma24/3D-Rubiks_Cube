@@ -10,4 +10,6 @@
 ![alt text](https://github.com/AbhinavSharma24/3D-Rubiks_Cube/blob/master/Images/7x7.gif)
 
 ## Code refactored and more functualities added
+http://mrfeinberg.com/peasycam/
+
 https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_142_Rubiks_Cube_3/Processing/CC_142_Rubiks_Cube_3
